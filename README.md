@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **FREELANCHER**
 
-- 🌱 I’m currently learning **MongoDB AND nodeJS**
+- 🌱 I’m currently learning **MongoDB and nodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thapabishal21dev](https://github.com/thapabishal21dev)
 
